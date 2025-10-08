@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.main{
+    border-bottom: 1px solid gainsboro;
+}
+.child1{
+    border-right: 1px solid gainsboro;
+}
+
+.diff-angles{
+    margin-left: 50px;
+}
+
+.small-pics{
+    border-radius: 15px;
+
+
+}
+.anchors{
+    font-size: small;
+}
+
+.p-name{
+    font-size: larger;
+}
+
+.time{
+    font-size: x-small;
+    font-weight: bold;
+}
+
+
+.dd1-1{
+    border: 1px solid green;
+    height: 5em;
+    width: 9em;
+    background: #F7FFF9;
+    border-radius: 1em;
+    font-size: .8em;
+    
+    
+}
+/* 
+.op{
+    color: black;
+} */
+
+.anchors{
+    text-decoration: none;
+    color: black;
+}
+
+.dd1{
+     height: 5em;
+    width: 9em;
+    background: #F8F8F8;
+    border-radius: 1em;
+    border: 1px solid gray;
+    font-size: .8em;
+    
+}
+
+
+
+.material{
+    line-height: 5px;
+    margin-top: 7px;
+    font-size: small;
+   
+    margin-left: 6px;
+    width: 28rem;
+}
+
+
+.lil-sec{
+    border-top: 1px solid gainsboro;
+    border-bottom: 1px solid gainsboro;
+}
+
+ .unit-btn {
+      border: 1px solid #28a745;
+      border-radius: 8px;
+      padding: 10px 10px;
+      margin-right: 10px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+
+
+
+
+    .child2{
+        /* margin:1px */
+        padding: 4rem;
+    }
+
+    .points{
+        /* line-height: 15px; */
+        margin-left: 1rem;
+        font-size: .8rem;
+    }
+
+    
+.font-ic{
+    margin-top: 10px;
+}
+
+.unit-head{
+    font-weight: 30px;
+    font-size: 14px;
+    margin-top: 5px;
+    padding: 7px;
+}
